@@ -1,9 +1,5 @@
 🏥 Healthcare Insights Dashboard
 An interactive Streamlit web app for visualizing and analyzing healthcare data. This dashboard provides real-time insights into patient demographics, doctor performance, treatment trends, hospital facility utilization, and billing analysis using Python.
-
-🚀 Live Dashboard
-🔗 Click here to view the Live Streamlit App
-
 🚀 Features
 📊 Patient Demographics Analysis
 
@@ -53,3 +49,4 @@ Review and optimize treatments with the highest average costs to ensure better a
 
 Enhance Discharge Efficiency
 Speed up the discharge process by streamlining workflows, especially for departments with long hospital stays.
+
