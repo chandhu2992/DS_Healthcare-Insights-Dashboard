@@ -5,7 +5,7 @@ An interactive **Streamlit web app** for visualizing and analyzing healthcare da
 ---
 ## 🚀 Live Dashboard
 
-🔗 [Click here to view the Live Streamlit App](https://healthcare-rwp52medj2th2amwsahpxa.streamlit.app/)
+🔗 [Click here to view the Live Streamlit App](https://[healthcare-rwp52medj2th2amwsahpxa.streamlit.app](http://localhost:8501/#healthcare-dashboard)/)
 
 ---
 
